@@ -993,3 +993,616 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.24-10.32.09:160][  1]LogAssetRegistry: Asset discovery search completed in 8.6031 seconds
 [2023.04.24-10.32.09:168][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
 [2023.04.24-10.32.10:245][ 61]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.24-10.36.05:239][ 37]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/asset/character/enemy/Ghost02.Ghost02
+[2023.04.24-10.36.05:246][ 37]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2023.04.24-10.36.05:252][ 37]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.04.24-10.36.05:338][ 37]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.04.24-10.36.05:428][ 37]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.24-10.36.05:430][ 37]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2023.04.24-10.36.05:753][ 37]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/asset/character/enemy/TOONSHADER.TOONSHADER
+[2023.04.24-10.36.05:755][ 37]LogMaterial: Display: Missing cached shadermap for TOONSHADER in PCD3D_SM5, Default, SM5 (DDC key hash: D8502B12A36499B0A4934B6292C3FF69DCD4CCA9), compiling. 
+[2023.04.24-10.36.05:850][ 37]LogShaderCompilers: Display: Submitted 46 shader compile jobs with 'Normal' priority
+[2023.04.24-10.36.05:931][ 37]LogMaterial: Display: Missing cached shadermap for TOONSHADER in PCD3D_SM5, Default, SM5 (DDC key hash: 8D499F3EA661612AEED7925181693ABE47F5D873), compiling. 
+[2023.04.24-10.36.05:935][ 37]LogMaterial: Display: Missing cached shadermap for TOONSHADER in PCD3D_SM5, Default, SM5 (DDC key hash: 2215F262DD5B4F1B92C7CB46ED1453308362929F), compiling. 
+[2023.04.24-10.36.05:938][ 37]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 616E942B4A5D58766BE25909ECD6A43EA5358820), compiling. 
+[2023.04.24-10.36.05:939][ 37]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 4C559A3E0D59D9638C4F9B1B1E5F89CDFD4AE036), compiling. 
+[2023.04.24-10.36.05:941][ 37]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_3 in PCD3D_SM5, Default, SM5 (DDC key hash: CBCE3656FD4532B550F6BC9F0C0AE85AEBEAD464), compiling. 
+[2023.04.24-10.36.05:942][ 37]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4726EE17D8CF4769D1223BC0D195563EC98D8D50), compiling. 
+[2023.04.24-10.36.05:943][ 37]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: BBD23CBC208F289595319AE302AE7C1760128888), compiling. 
+[2023.04.24-10.36.05:984][ 37]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/asset/character/enemy/MT_Toon_red.MT_Toon_red
+[2023.04.24-10.36.06:134][ 37]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/asset/character/enemy/MT_Toon_yellow.MT_Toon_yellow
+[2023.04.24-10.36.06:284][ 37]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Npcs/BP_npcPawn_v1.BP_npcPawn_v1
+[2023.04.24-10.36.06:490][ 37]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 126 classes and 0 folders.
+[2023.04.24-10.36.07:769][ 37]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Npcs/BP_npcPawn_ghost2_Child.BP_npcPawn_ghost2_Child
+[2023.04.24-10.36.08:234][ 37]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Npcs/BP_npcPawn_ghost1_Child.BP_npcPawn_ghost1_Child
+[2023.04.24-10.36.08:667][ 37]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/asset/character/enemy/ghost01__1_.ghost01__1_
+[2023.04.24-10.36.08:672][ 37]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.24-10.36.09:123][ 37]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.24-10.36.09:189][ 37]LogSlate: Took 0.005711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.04.24-10.36.09:226][ 38]LogRenderer: Reallocating scene render targets to support 952x852 Format 10 NumSamples 1 (Frame:1).
+[2023.04.24-10.36.09:280][ 40]LogShaderCompilers: Display: Submitted 46 shader compile jobs with 'Normal' priority
+[2023.04.24-10.36.09:289][ 40]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 46
+[2023.04.24-10.36.09:289][ 40]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 40
+[2023.04.24-10.36.09:289][ 40]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2023.04.24-10.36.09:289][ 40]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2023.04.24-10.36.09:289][ 40]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2023.04.24-10.36.09:289][ 40]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2023.04.24-10.36.09:289][ 40]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2023.04.24-10.36.09:289][ 40]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.04.24-10.36.09:289][ 40]LogShaderCompilers: Display: Started 46 'Local' shader compile jobs with 'Normal' priority
+[2023.04.24-10.36.12:871][156]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.24-10.36.12:871][156]LogShaderCompilers: Display: Total job queries 92, among them cache hits 0 (0.00%)
+[2023.04.24-10.36.12:871][156]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2023.04.24-10.36.12:872][156]LogShaderCompilers: Display: RAM used: 0.04 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.04.24-10.36.12:872][156]LogShaderCompilers: Display: ================================================
+[2023.04.24-10.36.12:895][157]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.24-10.36.13:450][179]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-10.36.13:450][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-10.36.14:547][222]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-10.36.14:547][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-10.36.15:756][284]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-10.36.15:757][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-10.36.28:449][  0]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-10.36.28:449][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-10.36.28:554][  0]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Npcs/BP_npcPawn_ghost1_Child.BP_npcPawn_ghost1_Child
+[2023.04.24-10.36.28:996][  0]LogSlate: Took 0.005834 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.04.24-10.38.27:091][802]BlueprintLog: New page: Compile BP_npcPawn_ghost1_Child
+[2023.04.24-10.38.27:153][802]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2023.04.24-10.38.27:205][802]LogSlate: Took 0.007356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.04.24-10.38.28:041][853]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.24-10.38.28:049][853]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.24-10.38.28:049][853]PIE: New page: PIE session: TwinStickExampleMap (24 abr. 2023 14:38:28)
+[2023.04.24-10.38.28:051][853]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.04.24-10.38.28:052][853]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.04.24-10.38.28:052][853]LogPlayLevel: Creating play world package: /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2023.04.24-10.38.28:063][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010259s)
+[2023.04.24-10.38.28:064][853]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2023.04.24-10.38.28:064][853]LogPlayLevel: PIE: World Init took: (0.001578s)
+[2023.04.24-10.38.28:064][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStick/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.012036s)
+[2023.04.24-10.38.28:095][853]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.04.24-10.38.28:096][853]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.04.24-10.38.28:096][853]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-10.38.28:096][853]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-10.38.28:096][853]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-10.38.28:096][853]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-10.38.28:096][853]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.24-10.38.28:096][853]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.24-10.38.28:096][853]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.24-10.38.28:096][853]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-10.38.28:097][853]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-10.38.28:097][853]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-10.38.28:097][853]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-10.38.28:097][853]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.24-10.38.28:102][853]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.24-10.38.28:102][853]LogAudioMixer: Display: 1: FrontRight
+[2023.04.24-10.38.28:134][853]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.04.24-10.38.28:134][853]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-10.38.28:134][853]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-10.38.28:134][853]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-10.38.28:135][853]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.24-10.38.28:135][853]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.24-10.38.28:135][853]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.24-10.38.28:136][853]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.24-10.38.28:136][853]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.24-10.38.28:136][853]LogInit: FAudioDevice initialized.
+[2023.04.24-10.38.28:136][853]LogAudio: Display: Audio Device (ID: 2) registered with world 'TwinStickExampleMap'.
+[2023.04.24-10.38.28:153][853]LogLoad: Game class is 'TwinStickGameMode_C'
+[2023.04.24-10.38.28:158][853]LogWorld: Bringing World /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2023.04.24-12.38.28
+[2023.04.24-10.38.28:160][853]LogWorld: Bringing up level for play took: 0.005992
+[2023.04.24-10.38.28:160][853]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.04.24-10.38.28:171][853]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2023.04.24-10.38.28:196][853]LogBlueprintUserMessages: [BP_npcPawn_v1_2] Iam a npcs
+[2023.04.24-10.38.28:197][853]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] START LEVEL?   true
+[2023.04.24-10.38.28:197][853]LogBlueprintUserMessages: [BP_npcPawn_ghost2_Child_2] Iam a npcs
+[2023.04.24-10.38.28:197][853]PIE: Server logged in
+[2023.04.24-10.38.28:198][853]PIE: Play in editor total start time 0,15 seconds.
+[2023.04.24-10.38.45:378][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-10.38.45:378][838]LogWorld: BeginTearingDown for /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2023.04.24-10.38.45:378][838]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-10.38.45:379][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-10.38.45:391][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-10.38.45:397][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-10.38.45:430][838]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-10.38.45:433][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-10.38.45:434][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-10.38.45:454][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-10.38.45:499][838]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2023.04.24-10.38.45:640][845]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.04.24-10.38.58:763][623]BlueprintLog: New page: Compile BP_npcPawn_ghost1_Child
+[2023.04.24-10.38.58:832][623]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2023.04.24-10.39.02:718][834]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.24-10.39.02:729][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.24-10.39.02:729][834]PIE: New page: PIE session: TwinStickExampleMap (24 abr. 2023 14:39:02)
+[2023.04.24-10.39.02:729][834]LogPlayLevel: Creating play world package: /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2023.04.24-10.39.02:739][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009728s)
+[2023.04.24-10.39.02:740][834]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2023.04.24-10.39.02:740][834]LogPlayLevel: PIE: World Init took: (0.001453s)
+[2023.04.24-10.39.02:740][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStick/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.011332s)
+[2023.04.24-10.39.02:777][834]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2023.04.24-10.39.02:780][834]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.04.24-10.39.02:780][834]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-10.39.02:780][834]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-10.39.02:780][834]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-10.39.02:780][834]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-10.39.02:780][834]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.24-10.39.02:780][834]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.24-10.39.02:780][834]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.24-10.39.02:780][834]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-10.39.02:781][834]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-10.39.02:781][834]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-10.39.02:781][834]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-10.39.02:781][834]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.24-10.39.02:785][834]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.24-10.39.02:785][834]LogAudioMixer: Display: 1: FrontRight
+[2023.04.24-10.39.02:816][834]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.04.24-10.39.02:817][834]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-10.39.02:817][834]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-10.39.02:817][834]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-10.39.02:817][834]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.24-10.39.02:817][834]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.24-10.39.02:817][834]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.24-10.39.02:819][834]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.24-10.39.02:819][834]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.24-10.39.02:819][834]LogInit: FAudioDevice initialized.
+[2023.04.24-10.39.02:819][834]LogAudio: Display: Audio Device (ID: 3) registered with world 'TwinStickExampleMap'.
+[2023.04.24-10.39.02:827][834]LogLoad: Game class is 'TwinStickGameMode_C'
+[2023.04.24-10.39.02:831][834]LogWorld: Bringing World /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2023.04.24-12.39.02
+[2023.04.24-10.39.02:833][834]LogWorld: Bringing up level for play took: 0.005264
+[2023.04.24-10.39.02:833][834]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2023.04.24-10.39.02:858][834]LogBlueprintUserMessages: [BP_npcPawn_v1_2] Iam a npcs
+[2023.04.24-10.39.02:859][834]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] START LEVEL?   true
+[2023.04.24-10.39.02:859][834]LogBlueprintUserMessages: [BP_npcPawn_ghost2_Child_2] Iam a npcs
+[2023.04.24-10.39.02:859][834]PIE: Server logged in
+[2023.04.24-10.39.02:860][834]PIE: Play in editor total start time 0,132 seconds.
+[2023.04.24-10.39.13:037][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-10.39.13:037][439]LogWorld: BeginTearingDown for /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2023.04.24-10.39.13:038][439]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-10.39.13:039][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-10.39.13:051][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-10.39.13:057][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-10.39.13:091][439]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-10.39.13:091][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-10.39.13:092][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-10.39.13:112][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-10.39.13:117][439]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2023.04.24-10.39.13:248][446]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.04.24-10.39.21:509][894]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.24-10.39.21:517][894]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.24-10.39.21:518][894]LogPlayLevel: [PlayLevel] Compiling BP_npcPawn_ghost1_Child before play...
+[2023.04.24-10.39.21:589][894]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2023.04.24-10.39.21:590][894]LogPlayLevel: PlayLevel: Blueprint regeneration took 71 ms (1 blueprints)
+[2023.04.24-10.39.21:590][894]PIE: New page: PIE session: TwinStickExampleMap (24 abr. 2023 14:39:21)
+[2023.04.24-10.39.21:629][894]LogPlayLevel: Creating play world package: /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2023.04.24-10.39.21:638][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009466s)
+[2023.04.24-10.39.21:639][894]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2023.04.24-10.39.21:640][894]LogPlayLevel: PIE: World Init took: (0.001482s)
+[2023.04.24-10.39.21:640][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStick/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.011166s)
+[2023.04.24-10.39.21:676][894]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2023.04.24-10.39.21:676][894]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.04.24-10.39.21:676][894]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-10.39.21:676][894]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-10.39.21:676][894]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-10.39.21:676][894]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-10.39.21:677][894]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.24-10.39.21:677][894]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.24-10.39.21:677][894]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.24-10.39.21:677][894]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-10.39.21:677][894]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-10.39.21:677][894]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-10.39.21:677][894]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-10.39.21:677][894]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.24-10.39.21:682][894]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.24-10.39.21:682][894]LogAudioMixer: Display: 1: FrontRight
+[2023.04.24-10.39.21:713][894]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.04.24-10.39.21:713][894]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-10.39.21:713][894]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-10.39.21:713][894]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-10.39.21:714][894]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.24-10.39.21:714][894]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.24-10.39.21:714][894]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.24-10.39.21:715][894]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.24-10.39.21:715][894]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.24-10.39.21:715][894]LogInit: FAudioDevice initialized.
+[2023.04.24-10.39.21:715][894]LogAudio: Display: Audio Device (ID: 4) registered with world 'TwinStickExampleMap'.
+[2023.04.24-10.39.21:730][894]LogLoad: Game class is 'TwinStickGameMode_C'
+[2023.04.24-10.39.21:735][894]LogWorld: Bringing World /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2023.04.24-12.39.21
+[2023.04.24-10.39.21:736][894]LogWorld: Bringing up level for play took: 0.005235
+[2023.04.24-10.39.21:737][894]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2023.04.24-10.39.21:764][894]LogBlueprintUserMessages: [BP_npcPawn_v1_2] Iam a npcs
+[2023.04.24-10.39.21:765][894]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] START LEVEL?   true
+[2023.04.24-10.39.21:765][894]LogBlueprintUserMessages: [BP_npcPawn_ghost2_Child_2] Iam a npcs
+[2023.04.24-10.39.21:765][894]PIE: Server logged in
+[2023.04.24-10.39.21:766][894]PIE: Play in editor total start time 0,249 seconds.
+[2023.04.24-10.41.35:258][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-10.41.35:258][866]LogWorld: BeginTearingDown for /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2023.04.24-10.41.35:259][866]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-10.41.35:261][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-10.41.35:269][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-10.41.35:276][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-10.41.35:311][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-10.41.35:312][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-10.41.35:313][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-10.41.35:337][866]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2023.04.24-10.41.35:469][873]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.04.24-10.41.59:465][285]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ghost01__1__Anim)
+[2023.04.24-10.42.20:334][483]BlueprintLog: New page: Compile BP_npcPawn_ghost2_Child
+[2023.04.24-10.42.20:402][483]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2023.04.24-10.42.27:003][847]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.24-10.42.27:013][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.24-10.42.27:013][847]PIE: New page: PIE session: TwinStickExampleMap (24 abr. 2023 14:42:27)
+[2023.04.24-10.42.27:013][847]LogPlayLevel: Creating play world package: /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2023.04.24-10.42.27:022][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009335s)
+[2023.04.24-10.42.27:023][847]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2023.04.24-10.42.27:024][847]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2023.04.24-10.42.27:024][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStick/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.010748s)
+[2023.04.24-10.42.27:059][847]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2023.04.24-10.42.27:061][847]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.04.24-10.42.27:061][847]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-10.42.27:061][847]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-10.42.27:061][847]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-10.42.27:061][847]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-10.42.27:061][847]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.24-10.42.27:061][847]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.24-10.42.27:061][847]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.24-10.42.27:061][847]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-10.42.27:062][847]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-10.42.27:062][847]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-10.42.27:062][847]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-10.42.27:062][847]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.24-10.42.27:066][847]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.24-10.42.27:066][847]LogAudioMixer: Display: 1: FrontRight
+[2023.04.24-10.42.27:097][847]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.04.24-10.42.27:098][847]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-10.42.27:098][847]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-10.42.27:098][847]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-10.42.27:098][847]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.24-10.42.27:098][847]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.24-10.42.27:098][847]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.24-10.42.27:099][847]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.24-10.42.27:100][847]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.24-10.42.27:100][847]LogInit: FAudioDevice initialized.
+[2023.04.24-10.42.27:100][847]LogAudio: Display: Audio Device (ID: 5) registered with world 'TwinStickExampleMap'.
+[2023.04.24-10.42.27:109][847]LogLoad: Game class is 'TwinStickGameMode_C'
+[2023.04.24-10.42.27:113][847]LogWorld: Bringing World /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2023.04.24-12.42.27
+[2023.04.24-10.42.27:114][847]LogWorld: Bringing up level for play took: 0.004499
+[2023.04.24-10.42.27:115][847]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2023.04.24-10.42.27:140][847]LogBlueprintUserMessages: [BP_npcPawn_v1_2] Iam a npcs
+[2023.04.24-10.42.27:141][847]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] START LEVEL?   true
+[2023.04.24-10.42.27:141][847]LogBlueprintUserMessages: [BP_npcPawn_ghost2_Child_2] Iam a npcs
+[2023.04.24-10.42.27:141][847]PIE: Server logged in
+[2023.04.24-10.42.27:142][847]PIE: Play in editor total start time 0,131 seconds.
+[2023.04.24-10.42.31:213][ 87]LogBlueprintUserMessages: [BP_npcPawn_ghost2_Child_2] Hello
+[2023.04.24-10.42.32:838][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-10.42.32:838][182]LogWorld: BeginTearingDown for /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2023.04.24-10.42.32:839][182]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-10.42.32:840][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-10.42.32:852][182]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-10.42.32:880][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-10.42.32:914][182]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-10.42.32:914][182]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-10.42.32:916][182]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-10.42.32:924][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-10.42.32:930][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2023.04.24-10.42.33:110][189]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.04.24-10.42.40:954][648]Cmd: DELETE
+[2023.04.24-10.42.40:955][648]Cmd: ACTOR DELETE
+[2023.04.24-10.42.40:962][648]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.04.24-10.42.41:003][648]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2023.04.24-10.42.41:005][648]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2023.04.24-10.42.42:151][714]Cmd: DELETE
+[2023.04.24-10.42.42:151][714]Cmd: ACTOR DELETE
+[2023.04.24-10.42.42:155][714]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.04.24-10.42.42:188][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.04.24-10.42.42:189][714]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2023.04.24-10.42.43:453][787]Cmd: DELETE
+[2023.04.24-10.42.43:453][787]Cmd: ACTOR DELETE
+[2023.04.24-10.42.43:456][787]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.04.24-10.42.43:496][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.04.24-10.42.43:497][787]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2023.04.24-10.42.49:437][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.04.24-10.42.53:442][117]LogSlate: Window 'Save Content' being destroyed
+[2023.04.24-10.42.56:691][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.04.24-10.42.56:923][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.04.24-10.42.56:959][288]LogSavePackage: Moving 'F:/lvl99Jam_4_27/lastVersion/LEVEL909/Saved/TwinStickExampleMapE33551F042B4CD6EE2F0F9AC09A4687F.tmp' to 'F:/lvl99Jam_4_27/lastVersion/LEVEL909/Content/TwinStick/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2023.04.24-10.42.56:975][288]LogFileHelpers: Saving map 'TwinStickExampleMap' took 0.086
+[2023.04.24-10.42.56:995][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Npcs/BP_npcPawn_ghost2_Child" FILE="F:/lvl99Jam_4_27/lastVersion/LEVEL909/Content/Npcs/BP_npcPawn_ghost2_Child.uasset" SILENT=true
+[2023.04.24-10.42.57:014][288]LogSavePackage: Moving 'F:/lvl99Jam_4_27/lastVersion/LEVEL909/Saved/BP_npcPawn_ghost2_Child84AE6E024459E0AAEF82A5B82EB05D82.tmp' to 'F:/lvl99Jam_4_27/lastVersion/LEVEL909/Content/Npcs/BP_npcPawn_ghost2_Child.uasset'
+[2023.04.24-10.42.57:034][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Npcs/BP_npcPawn_ghost1_Child" FILE="F:/lvl99Jam_4_27/lastVersion/LEVEL909/Content/Npcs/BP_npcPawn_ghost1_Child.uasset" SILENT=true
+[2023.04.24-10.42.57:051][288]LogSavePackage: Moving 'F:/lvl99Jam_4_27/lastVersion/LEVEL909/Saved/BP_npcPawn_ghost1_ChildD9C6FAC24A60BF8CC63236AC41321521.tmp' to 'F:/lvl99Jam_4_27/lastVersion/LEVEL909/Content/Npcs/BP_npcPawn_ghost1_Child.uasset'
+[2023.04.24-10.42.57:070][288]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.24-10.42.57:070][288]LogContentValidation: Display: Validating Blueprint /Game/Npcs/BP_npcPawn_ghost2_Child.BP_npcPawn_ghost2_Child
+[2023.04.24-10.42.57:070][288]LogContentValidation: Display: Validating World /Game/TwinStick/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap
+[2023.04.24-10.42.57:070][288]LogContentValidation: Display: Validating Blueprint /Game/Npcs/BP_npcPawn_ghost1_Child.BP_npcPawn_ghost1_Child
+[2023.04.24-10.43.04:507][698]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2023.04.24-10.44.43:973][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Npcs/BP_npcPawn_ghost2_Child" FILE="F:/lvl99Jam_4_27/lastVersion/LEVEL909/Content/Npcs/BP_npcPawn_ghost2_Child.uasset" SILENT=true
+[2023.04.24-10.44.43:988][561]LogSavePackage: Moving 'F:/lvl99Jam_4_27/lastVersion/LEVEL909/Saved/BP_npcPawn_ghost2_ChildF60362A1425A330DEB4DB9BA6824441E.tmp' to 'F:/lvl99Jam_4_27/lastVersion/LEVEL909/Content/Npcs/BP_npcPawn_ghost2_Child.uasset'
+[2023.04.24-10.44.44:008][561]AssetCheck: New page: Asset Save: BP_npcPawn_ghost2_Child
+[2023.04.24-10.44.44:008][561]LogContentValidation: Display: Validating Blueprint /Game/Npcs/BP_npcPawn_ghost2_Child.BP_npcPawn_ghost2_Child
+[2023.04.24-10.45.00:205][488]BlueprintLog: New page: Compile BP_npcPawn_ghost1_Child
+[2023.04.24-10.45.00:285][488]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2023.04.24-10.45.02:300][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Npcs/BP_npcPawn_ghost1_Child" FILE="F:/lvl99Jam_4_27/lastVersion/LEVEL909/Content/Npcs/BP_npcPawn_ghost1_Child.uasset" SILENT=true
+[2023.04.24-10.45.02:320][587]LogSavePackage: Moving 'F:/lvl99Jam_4_27/lastVersion/LEVEL909/Saved/BP_npcPawn_ghost1_Child1C599DBA47CFC5ADF68F01B4BD4FFE0B.tmp' to 'F:/lvl99Jam_4_27/lastVersion/LEVEL909/Content/Npcs/BP_npcPawn_ghost1_Child.uasset'
+[2023.04.24-10.45.02:337][587]AssetCheck: New page: Asset Save: BP_npcPawn_ghost1_Child
+[2023.04.24-10.45.02:337][587]LogContentValidation: Display: Validating Blueprint /Game/Npcs/BP_npcPawn_ghost1_Child.BP_npcPawn_ghost1_Child
+[2023.04.24-10.45.37:524][613]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2023.04.24-10.45.39:486][613]LogSlate: Window 'Save Content' being destroyed
+[2023.04.24-10.45.39:639][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.04.24-10.45.39:674][613]LogSavePackage: Moving 'F:/lvl99Jam_4_27/lastVersion/LEVEL909/Saved/TwinStickExampleMapDB66181E4A9F0CEE1C8ABCA19C2464C2.tmp' to 'F:/lvl99Jam_4_27/lastVersion/LEVEL909/Content/TwinStick/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2023.04.24-10.45.39:690][613]LogFileHelpers: Saving map 'TwinStickExampleMap' took 0.084
+[2023.04.24-10.45.39:712][613]AssetCheck: New page: Asset Save: TwinStickExampleMap
+[2023.04.24-10.45.39:712][613]LogContentValidation: Display: Validating World /Game/TwinStick/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap
+[2023.04.24-10.45.54:008][420]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.04.24-10.48.35:325][759]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.24-10.48.59:580][751]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.04.24-10.48.59:618][751]LogBlueprint: Error: [AssetLog] F:\lvl99Jam_4_27\lastVersion\LEVEL909\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.04.24-10.48.59:618][751]LogBlueprint: Error: [AssetLog] F:\lvl99Jam_4_27\lastVersion\LEVEL909\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.04.24-10.48.59:712][751]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2023.04.24-10.49.09:279][227]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.04.24-10.49.09:446][227]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2023.04.24-10.49.34:718][555]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.24-10.49.34:727][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.24-10.49.34:727][555]PIE: New page: PIE session: TwinStickExampleMap (24 abr. 2023 14:49:34)
+[2023.04.24-10.49.34:728][555]LogPlayLevel: Creating play world package: /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2023.04.24-10.49.34:739][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011772s)
+[2023.04.24-10.49.34:741][555]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2023.04.24-10.49.34:741][555]LogPlayLevel: PIE: World Init took: (0.001822s)
+[2023.04.24-10.49.34:741][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStick/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.013800s)
+[2023.04.24-10.49.34:789][555]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2023.04.24-10.49.34:791][555]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.04.24-10.49.34:791][555]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-10.49.34:791][555]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-10.49.34:791][555]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-10.49.34:791][555]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-10.49.34:791][555]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.24-10.49.34:791][555]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.24-10.49.34:791][555]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.24-10.49.34:791][555]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-10.49.34:791][555]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-10.49.34:791][555]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-10.49.34:791][555]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-10.49.34:791][555]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.24-10.49.34:796][555]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.24-10.49.34:796][555]LogAudioMixer: Display: 1: FrontRight
+[2023.04.24-10.49.34:844][555]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.04.24-10.49.34:844][555]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-10.49.34:844][555]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-10.49.34:844][555]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-10.49.34:845][555]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.24-10.49.34:845][555]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.24-10.49.34:845][555]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.24-10.49.34:846][555]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.24-10.49.34:847][555]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.24-10.49.34:847][555]LogInit: FAudioDevice initialized.
+[2023.04.24-10.49.34:847][555]LogAudio: Display: Audio Device (ID: 6) registered with world 'TwinStickExampleMap'.
+[2023.04.24-10.49.34:868][555]LogLoad: Game class is 'TwinStickGameMode_C'
+[2023.04.24-10.49.34:873][555]LogWorld: Bringing World /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2023.04.24-12.49.34
+[2023.04.24-10.49.34:874][555]LogWorld: Bringing up level for play took: 0.005238
+[2023.04.24-10.49.34:874][555]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2023.04.24-10.49.34:902][555]LogBlueprintUserMessages: [BP_npcPawn_v1_2] Iam a npcs
+[2023.04.24-10.49.34:903][555]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] START LEVEL?   true
+[2023.04.24-10.49.34:903][555]LogBlueprintUserMessages: [BP_npcPawn_ghost2_Child_2] Iam a npcs
+[2023.04.24-10.49.34:903][555]LogBlueprintUserMessages: [BP_npcPawn_ghost1_Child_2] Iam a npcs
+[2023.04.24-10.49.34:903][555]PIE: Server logged in
+[2023.04.24-10.49.34:904][555]PIE: Play in editor total start time 0,179 seconds.
+[2023.04.24-10.49.38:976][795]LogBlueprintUserMessages: [BP_npcPawn_ghost2_Child_2] Hello
+[2023.04.24-10.49.38:976][795]LogBlueprintUserMessages: [BP_npcPawn_ghost1_Child_2] Hello
+[2023.04.24-10.49.40:579][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-10.49.40:579][889]LogWorld: BeginTearingDown for /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2023.04.24-10.49.40:579][889]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-10.49.40:580][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-10.49.40:593][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-10.49.40:608][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-10.49.40:645][889]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-10.49.40:646][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-10.49.40:647][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-10.49.40:681][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-10.49.40:687][889]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2023.04.24-10.49.40:864][896]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.04.24-10.49.43:627][ 46]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-10.49.43:627][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-10.51.14:311][389]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.24-10.51.14:321][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.24-10.51.14:321][389]PIE: New page: PIE session: TwinStickExampleMap (24 abr. 2023 14:51:14)
+[2023.04.24-10.51.14:357][389]LogPlayLevel: Creating play world package: /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2023.04.24-10.51.14:367][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009617s)
+[2023.04.24-10.51.14:368][389]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2023.04.24-10.51.14:368][389]LogPlayLevel: PIE: World Init took: (0.001456s)
+[2023.04.24-10.51.14:368][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStick/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.011256s)
+[2023.04.24-10.51.14:415][389]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2023.04.24-10.51.14:419][389]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.04.24-10.51.14:419][389]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-10.51.14:419][389]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-10.51.14:419][389]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-10.51.14:420][389]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-10.51.14:420][389]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.24-10.51.14:420][389]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.24-10.51.14:420][389]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.24-10.51.14:420][389]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-10.51.14:420][389]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-10.51.14:420][389]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-10.51.14:420][389]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-10.51.14:420][389]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.24-10.51.14:425][389]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.24-10.51.14:425][389]LogAudioMixer: Display: 1: FrontRight
+[2023.04.24-10.51.14:457][389]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.04.24-10.51.14:458][389]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-10.51.14:458][389]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-10.51.14:458][389]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-10.51.14:458][389]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.24-10.51.14:458][389]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.24-10.51.14:458][389]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.24-10.51.14:460][389]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.24-10.51.14:460][389]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.24-10.51.14:460][389]LogInit: FAudioDevice initialized.
+[2023.04.24-10.51.14:460][389]LogAudio: Display: Audio Device (ID: 7) registered with world 'TwinStickExampleMap'.
+[2023.04.24-10.51.14:471][389]LogLoad: Game class is 'TwinStickGameMode_C'
+[2023.04.24-10.51.14:475][389]LogWorld: Bringing World /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2023.04.24-12.51.14
+[2023.04.24-10.51.14:476][389]LogWorld: Bringing up level for play took: 0.004448
+[2023.04.24-10.51.14:476][389]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2023.04.24-10.51.14:504][389]LogBlueprintUserMessages: [BP_npcPawn_v1_2] Iam a npcs
+[2023.04.24-10.51.14:505][389]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] START LEVEL?   true
+[2023.04.24-10.51.14:505][389]LogBlueprintUserMessages: [BP_npcPawn_ghost2_Child_2] Iam a npcs
+[2023.04.24-10.51.14:505][389]LogBlueprintUserMessages: [BP_npcPawn_ghost1_Child_2] Iam a npcs
+[2023.04.24-10.51.14:506][389]PIE: Server logged in
+[2023.04.24-10.51.14:507][389]PIE: Play in editor total start time 0,187 seconds.
+[2023.04.24-10.51.18:584][629]LogBlueprintUserMessages: [BP_npcPawn_ghost2_Child_2] Hello
+[2023.04.24-10.51.18:584][629]LogBlueprintUserMessages: [BP_npcPawn_ghost1_Child_2] Hello
+[2023.04.24-10.51.24:008][954]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] YOUINTOXICATED
+[2023.04.24-10.51.24:008][954]LogBlueprintUserMessages: [UI_gasMask_C_0] FadeIn
+[2023.04.24-10.51.26:648][112]LogBlueprintUserMessages: [BP_npcPawn_ghost1_Child_C_0] Iam a npcs
+[2023.04.24-10.51.29:753][293]LogBlueprintUserMessages: [BP_npcPawn_ghost1_Child_C_1] Iam a npcs
+[2023.04.24-10.51.30:737][352]LogBlueprintUserMessages: [BP_npcPawn_ghost1_Child_C_0] Hello
+[2023.04.24-10.51.32:771][474]LogBlueprintUserMessages: [BP_npcPawn_ghost1_Child_C_2] Iam a npcs
+[2023.04.24-10.51.33:754][533]LogBlueprintUserMessages: [BP_npcPawn_ghost1_Child_C_1] Hello
+[2023.04.24-10.51.35:796][655]LogBlueprintUserMessages: [BP_npcPawn_ghost1_Child_C_3] Iam a npcs
+[2023.04.24-10.51.36:778][714]LogBlueprintUserMessages: [BP_npcPawn_ghost1_Child_C_2] Hello
+[2023.04.24-10.51.38:815][836]LogBlueprintUserMessages: [BP_npcPawn_ghost1_Child_C_4] Iam a npcs
+[2023.04.24-10.51.39:803][895]LogBlueprintUserMessages: [BP_npcPawn_ghost1_Child_C_3] Hello
+[2023.04.24-10.51.41:850][ 17]LogBlueprintUserMessages: [BP_npcPawn_ghost1_Child_C_5] Iam a npcs
+[2023.04.24-10.51.42:833][ 76]LogBlueprintUserMessages: [BP_npcPawn_ghost1_Child_C_4] Hello
+[2023.04.24-10.51.44:927][198]LogBlueprintUserMessages: [BP_npcPawn_ghost2_Child_C_0] Iam a npcs
+[2023.04.24-10.51.45:921][257]LogBlueprintUserMessages: [BP_npcPawn_ghost1_Child_C_5] Hello
+[2023.04.24-10.51.46:339][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-10.51.46:339][278]LogWorld: BeginTearingDown for /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2023.04.24-10.51.46:339][278]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-10.51.46:341][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-10.51.46:356][278]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-10.51.46:371][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-10.51.46:408][278]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-10.51.46:408][278]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-10.51.46:410][278]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-10.51.46:426][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-10.51.46:434][278]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2023.04.24-10.51.46:599][285]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.04.24-10.52.16:163][955]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2023.04.24-10.52.16:203][955]LogSavePackage: Moving 'F:/lvl99Jam_4_27/lastVersion/LEVEL909/Saved/TwinStickExampleMapDE4DC59E44DA01BF5E8C87A453D52EEF.tmp' to 'F:/lvl99Jam_4_27/lastVersion/LEVEL909/Content/TwinStick/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2023.04.24-10.52.16:406][955]LogSavePackage: Moving 'F:/lvl99Jam_4_27/lastVersion/LEVEL909/Saved/TwinStickExampleMap_BuiltDataBE78ABB443473D30855A9CA416E4B3C7.tmp' to 'F:/lvl99Jam_4_27/lastVersion/LEVEL909/Content/TwinStick/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2023.04.24-10.52.16:420][955]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.24-10.52.16:420][955]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TwinStick/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.TwinStickExampleMap_BuiltData
+[2023.04.24-10.52.16:421][955]LogContentValidation: Display: Validating World /Game/TwinStick/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap
+[2023.04.24-10.52.18:756][ 65]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.24-10.52.18:767][ 65]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.24-10.52.18:768][ 65]PIE: New page: PIE session: TwinStickExampleMap (24 abr. 2023 14:52:18)
+[2023.04.24-10.52.18:768][ 65]LogPlayLevel: Creating play world package: /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2023.04.24-10.52.18:778][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010005s)
+[2023.04.24-10.52.18:779][ 65]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2023.04.24-10.52.18:779][ 65]LogPlayLevel: PIE: World Init took: (0.001517s)
+[2023.04.24-10.52.18:779][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStick/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.011682s)
+[2023.04.24-10.52.18:821][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2023.04.24-10.52.18:823][ 65]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.04.24-10.52.18:823][ 65]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-10.52.18:823][ 65]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-10.52.18:823][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-10.52.18:823][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-10.52.18:823][ 65]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.24-10.52.18:823][ 65]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.24-10.52.18:823][ 65]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.24-10.52.18:823][ 65]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-10.52.18:824][ 65]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-10.52.18:824][ 65]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-10.52.18:824][ 65]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-10.52.18:824][ 65]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.24-10.52.18:828][ 65]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.24-10.52.18:828][ 65]LogAudioMixer: Display: 1: FrontRight
+[2023.04.24-10.52.18:859][ 65]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.04.24-10.52.18:860][ 65]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-10.52.18:860][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-10.52.18:860][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-10.52.18:860][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.24-10.52.18:860][ 65]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.24-10.52.18:860][ 65]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.24-10.52.18:862][ 65]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.24-10.52.18:862][ 65]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.24-10.52.18:862][ 65]LogInit: FAudioDevice initialized.
+[2023.04.24-10.52.18:862][ 65]LogAudio: Display: Audio Device (ID: 8) registered with world 'TwinStickExampleMap'.
+[2023.04.24-10.52.18:870][ 65]LogLoad: Game class is 'TwinStickGameMode_C'
+[2023.04.24-10.52.18:874][ 65]LogWorld: Bringing World /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2023.04.24-12.52.18
+[2023.04.24-10.52.18:875][ 65]LogWorld: Bringing up level for play took: 0.004313
+[2023.04.24-10.52.18:876][ 65]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2023.04.24-10.52.18:901][ 65]LogBlueprintUserMessages: [BP_npcPawn_v1_2] Iam a npcs
+[2023.04.24-10.52.18:902][ 65]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] START LEVEL?   true
+[2023.04.24-10.52.18:902][ 65]LogBlueprintUserMessages: [BP_npcPawn_ghost2_Child_2] Iam a npcs
+[2023.04.24-10.52.18:902][ 65]LogBlueprintUserMessages: [BP_npcPawn_ghost1_Child_2] Iam a npcs
+[2023.04.24-10.52.18:902][ 65]PIE: Server logged in
+[2023.04.24-10.52.18:904][ 65]PIE: Play in editor total start time 0,137 seconds.
+[2023.04.24-10.52.22:947][305]LogBlueprintUserMessages: [BP_npcPawn_ghost2_Child_2] Hello
+[2023.04.24-10.52.22:947][305]LogBlueprintUserMessages: [BP_npcPawn_ghost1_Child_2] Hello
+[2023.04.24-10.52.37:577][180]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] New score:   20
+[2023.04.24-10.52.44:018][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-10.52.44:018][563]LogWorld: BeginTearingDown for /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2023.04.24-10.52.44:019][563]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-10.52.44:020][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-10.52.44:029][563]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-10.52.44:056][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-10.52.44:093][563]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-10.52.44:094][563]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-10.52.44:095][563]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-10.52.44:132][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-10.52.44:139][563]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2023.04.24-10.52.44:315][570]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.04.24-10.53.10:650][ 49]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.24-10.53.10:659][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.24-10.53.10:660][ 49]PIE: New page: PIE session: TwinStickExampleMap (24 abr. 2023 14:53:10)
+[2023.04.24-10.53.10:660][ 49]LogPlayLevel: Creating play world package: /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2023.04.24-10.53.10:671][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011522s)
+[2023.04.24-10.53.10:672][ 49]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2023.04.24-10.53.10:673][ 49]LogPlayLevel: PIE: World Init took: (0.001330s)
+[2023.04.24-10.53.10:673][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStick/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.013002s)
+[2023.04.24-10.53.10:713][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2023.04.24-10.53.10:716][ 49]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.04.24-10.53.10:716][ 49]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-10.53.10:716][ 49]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-10.53.10:716][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-10.53.10:716][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-10.53.10:716][ 49]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.24-10.53.10:716][ 49]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.24-10.53.10:716][ 49]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.24-10.53.10:716][ 49]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-10.53.10:717][ 49]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-10.53.10:717][ 49]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-10.53.10:717][ 49]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-10.53.10:717][ 49]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.24-10.53.10:721][ 49]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.24-10.53.10:721][ 49]LogAudioMixer: Display: 1: FrontRight
+[2023.04.24-10.53.10:754][ 49]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.04.24-10.53.10:754][ 49]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-10.53.10:754][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-10.53.10:754][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-10.53.10:755][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.24-10.53.10:755][ 49]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.24-10.53.10:755][ 49]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.24-10.53.10:756][ 49]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.24-10.53.10:756][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.24-10.53.10:756][ 49]LogInit: FAudioDevice initialized.
+[2023.04.24-10.53.10:756][ 49]LogAudio: Display: Audio Device (ID: 9) registered with world 'TwinStickExampleMap'.
+[2023.04.24-10.53.10:768][ 49]LogLoad: Game class is 'TwinStickGameMode_C'
+[2023.04.24-10.53.10:772][ 49]LogWorld: Bringing World /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2023.04.24-12.53.10
+[2023.04.24-10.53.10:773][ 49]LogWorld: Bringing up level for play took: 0.004378
+[2023.04.24-10.53.10:774][ 49]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2023.04.24-10.53.10:799][ 49]LogBlueprintUserMessages: [BP_npcPawn_v1_2] Iam a npcs
+[2023.04.24-10.53.10:800][ 49]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] START LEVEL?   true
+[2023.04.24-10.53.10:800][ 49]LogBlueprintUserMessages: [BP_npcPawn_ghost2_Child_2] Iam a npcs
+[2023.04.24-10.53.10:800][ 49]LogBlueprintUserMessages: [BP_npcPawn_ghost1_Child_2] Iam a npcs
+[2023.04.24-10.53.10:800][ 49]PIE: Server logged in
+[2023.04.24-10.53.10:801][ 49]PIE: Play in editor total start time 0,142 seconds.
+[2023.04.24-10.53.14:947][289]LogBlueprintUserMessages: [BP_npcPawn_ghost2_Child_2] Hello
+[2023.04.24-10.53.14:947][289]LogBlueprintUserMessages: [BP_npcPawn_ghost1_Child_2] Hello
+[2023.04.24-10.53.22:177][720]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] New score:   20
+[2023.04.24-10.53.26:989][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-10.53.26:989][  4]LogWorld: BeginTearingDown for /Game/TwinStick/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2023.04.24-10.53.26:989][  4]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-10.53.26:990][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-10.53.27:003][  4]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-10.53.27:030][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-10.53.27:068][  4]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-10.53.27:068][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-10.53.27:070][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-10.53.27:103][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-10.53.27:109][  4]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2023.04.24-10.53.27:296][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.04.24-10.53.31:064][208]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2023.04.24-10.53.31:225][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="F:/lvl99Jam_4_27/lastVersion/LEVEL909/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2023.04.24-10.53.31:419][208]LogSavePackage: Moving 'F:/lvl99Jam_4_27/lastVersion/LEVEL909/Saved/ThirdPersonCharacterF9337DF3423E076EAF5C2096AE662792.tmp' to 'F:/lvl99Jam_4_27/lastVersion/LEVEL909/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.04.24-10.53.31:442][208]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.04.24-10.53.31:442][208]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.04.24-10.53.49:870][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
