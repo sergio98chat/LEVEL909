@@ -40,3 +40,9 @@ Saved/Config/Windows/Engine.ini
 Saved/Logs/testTopDown-backup-2023.04.24-02.57.51.log
 Saved/Logs/testTopDown-backup-2023.04.24-10.21.47.log
 Saved/Logs/testTopDown.log
+*.bin
+*.json
+*.png
+*.ini
+*.log
+*.log
